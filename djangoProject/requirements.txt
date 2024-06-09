@@ -1,0 +1,12 @@
+boto3
+Django>=3.2, <3.3
+Pillow
+python-decouple==3.4
+djangorestframework
+djangorestframework-simplejwt
+PyJWT
+cryptography
+drf-yasg
+django-filter
+django-cors-headers
+djangorestframework-camel-case
