@@ -2,7 +2,7 @@
 
 ## backend:
 ```bash
-cd backend
+cd djangoProject
 python manage.py runserver localhost:8010
 ```
 
